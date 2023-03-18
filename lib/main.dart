@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.accent,
       ),
-      home: 
+      home: //add main widget
     );
   }
 }
